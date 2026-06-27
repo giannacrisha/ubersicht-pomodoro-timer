@@ -2,6 +2,8 @@
 
 A minimal, draggable Pomodoro timer for [Übersicht](http://tracesof.net/uebersicht/) — a circular countdown ring with focus/short-break/long-break cycling, sitting quietly on your desktop until you need it.
 
+![screenshot](screenshot.png)
+
 ## Installation
 
 1. Install [Übersicht](http://tracesof.net/uebersicht/) if you haven't already.
